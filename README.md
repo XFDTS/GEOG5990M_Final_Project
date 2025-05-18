@@ -3,3 +3,10 @@ The purpose of this spatial data science report is to study the relationship bet
 This study utilized two open-source datasets, one of which is economic activity status data from the 2021 Census.(https://www.ons.gov.uk/census/maps/choropleth/)
 
 The other dataset is residential mobility index for the city of Leeds, sourced from the CDRC Residential Mobility Index provided by the Consumer Data Research Centre.(https://data.cdrc.ac.uk/dataset/cdrc-residential-mobility-index)
+
+This study's code is primarily divided into three sections: data cleaning, non-spatial visualization, and spatial visualization.
+
+The non-spatial visualization supports the conclusion that economically inactive students are more strongly affected by the residential mobility index in Leeds.
+
+The spatial visualization leads to the conclusion that areas with high residential mobility index and large economically inactive student populations are primarily concentrated in the central-western part of Leeds, with similar patterns also observed in some northeastern and eastern coastal areas. Conversely, areas with lower residential mobility index and fewer students are mainly located in the east part of Leeds and some areas of the southwest and northwest.
+
